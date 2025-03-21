@@ -1,9 +1,9 @@
 # Vercel Deployment Fetcher
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/vercel-deployment-fetcher?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/vercel-deployment-fetcher?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/your-username/vercel-deployment-fetcher?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/your-username/vercel-deployment-fetcher?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/loom/vercel-deployment-fetcher?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/loom/vercel-deployment-fetcher?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/loom/vercel-deployment-fetcher?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/loom/vercel-deployment-fetcher?style=for-the-badge)
 
 ## 🚀 About
 
